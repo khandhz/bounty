@@ -1,4 +1,3 @@
-script_key = "eatOLtUfJBAdqnizDxEDyTsopylEeejI"
 getgenv().Team = "Pirates"
 getgenv().WeaponsSetting = {
     ["Melee"] = {
